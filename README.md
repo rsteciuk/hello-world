@@ -3,4 +3,4 @@ Testing Github
 
 Hi Humans:
 
-Resistance is futil!
+Resistance is futile!
